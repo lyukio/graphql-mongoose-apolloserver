@@ -1,2 +1,2 @@
 # graphql-mongoose-apolloserver
-Projeto de estudos sobre as tecnologias GraphQL, Mongoose e a lib Apollo Server
+Project to study about GraphQL, Mongoose and Apollo Server lib
